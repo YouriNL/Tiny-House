@@ -29,5 +29,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
           cname: tinyhouse.thedreamer.nl
-          publish_branch: main
+          publish_branch: public
           keep_files: true
