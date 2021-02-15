@@ -1,1 +1,4 @@
-
+baseURL = "https://tinyhouse.thedreamer.nl/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
